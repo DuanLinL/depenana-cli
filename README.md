@@ -15,9 +15,6 @@
 
 ### 安装
 
-你可以通过以下方式安装该工具：
-
-- 克隆当前项目使用npm link到全局使用。
 - 使用 npm 进行安装：`npm install -g depenana-cli`。
 
 ### 使用
@@ -61,6 +58,10 @@ depenana-cli analyze --json [file-path]
 - 使用 TypeScript 进行开发
 - 使用 Jest 进行单元测试
 - 接入 eslint、lint-staged 工具
+
+## 缺陷
+
+- 仅完成了最基础功能，当节点数量很多时可视化能力较差，需要改善。
 
 ## 待扩展功能
 

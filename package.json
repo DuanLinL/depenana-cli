@@ -26,6 +26,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
+    "commander": "^11.0.0",
     "echarts": "^5.4.3",
     "ts-node": "^10.9.1"
   },

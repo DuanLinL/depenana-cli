@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "outDir": "dist",
+    "target": "es6",
+    "diagnostics": true
+  },
+  "include": ["src"]
+}

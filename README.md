@@ -17,7 +17,7 @@
 
 你可以通过以下方式安装该工具：
 
-- 下载现有[发布版本](https://github.com/DuanLinL/depenana-cli)。
+- 克隆当前项目使用npm link到全局使用。
 - 使用 npm 进行安装：`npm install -g depenana-cli`。
 
 ### 使用

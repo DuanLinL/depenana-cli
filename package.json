@@ -1,6 +1,6 @@
 {
   "name": "depenana-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM Package 分析工具",
   "main": "dist/index.js",
   "bin": {
